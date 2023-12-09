@@ -13,4 +13,3 @@ ETHCinemaNation is a decentralized voting platform built on the Ethereum blockch
     </td>
   </tr>
 </table>
-
